@@ -18,3 +18,4 @@ venv/
 
 # Office temporary files
 ~$*
+dbt_internal_packages/
