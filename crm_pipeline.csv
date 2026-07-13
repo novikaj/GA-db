@@ -1,0 +1,501 @@
+lead_id,created_at,email_domain,company_id,company_name,campaign_id,utm_campaign,lifecycle_stage,opportunity_id,opportunity_created_at,amount,close_date,close_status,trial_start_at,trial_end_at
+LEAD_0001,2025-02-18,hoolidynamics.com,ACC_0001,Hooli Dynamics,CMP_1016,camp_16,Closed Lost,OPP_0001,2025-02-25,31776.0,2025-03-28,Lost,2025-02-23,2025-03-09
+LEAD_0002,2025-08-16,wayneindustries.com,ACC_0002,Wayne Industries,CMP_1006,camp_6,Closed Lost,OPP_0002,2025-08-23,4726.0,2025-12-01,Lost,2025-08-16,2025-08-30
+LEAD_0003,2025-04-18,umbrelladynamics.com,ACC_0003,Umbrella Dynamics,CMP_1015,camp_15,MQL,,,,,,,
+LEAD_0004,2025-04-23,globexenterprises.com,ACC_0004,Globex Enterprises,CMP_1009,camp_9,Closed Lost,OPP_0004,2025-05-26,26723.0,2025-05-28,Lost,,
+LEAD_0005,2025-02-05,acmeenterprises.com,ACC_0005,Acme Enterprises,CMP_1003,camp_3,MQL,,,,,,2025-02-12,2025-02-26
+LEAD_0006,2025-05-19,umbrellaholdings.com,ACC_0006,Umbrella Holdings,CMP_1007,camp_7,SQL,,,,,,2025-05-19,2025-06-02
+LEAD_0007,2025-09-24,vehementnetworks.com,ACC_0007,Vehement Networks,CMP_1003,camp_3,Lead,,,,,,,
+LEAD_0008,2025-03-24,wonkaindustries.com,ACC_0008,Wonka Industries,CMP_1016,camp_16,MQL,,,,,,2025-03-24,2025-04-07
+LEAD_0009,2025-06-08,vandelaysolutions.com,ACC_0009,Vandelay Solutions,CMP_1016,camp_16,Closed Lost,OPP_0009,2025-06-17,4212.0,2025-08-10,Lost,2025-06-13,2025-06-27
+LEAD_0010,2025-03-07,gmail.com,ACC_0010,Soylent Systems,CMP_1011,camp_11,Closed Won,OPP_0010,2025-03-26,12725.0,2025-06-09,Won,,
+LEAD_0011,2025-09-30,vehementgroup.com,ACC_0011,Vehement Group,CMP_1002,camp_2,Closed Won,OPP_0011,2025-11-07,20071.0,2026-01-10,Won,2025-10-08,2025-10-22
+LEAD_0012,2025-05-11,initechcorporation.com,ACC_0012,Initech Corporation,CMP_1004,camp_4,SQL,,,,,,,
+LEAD_0013,2025-07-04,yahoo.com,ACC_0013,Vehement Group,CMP_1018,camp_18,SQL,,,,,,2025-07-06,2025-07-20
+LEAD_0014,2025-06-12,hooligroup.com,ACC_0014,Hooli Group,CMP_1014,camp_14,SQL,,,,,,,
+LEAD_0015,2025-09-09,acmeindustries.com,ACC_0015,Acme Industries,CMP_1016,camp_16,Closed Lost,OPP_0015,2025-10-02,30843.0,2025-10-10,Lost,2025-09-12,2025-09-26
+LEAD_0016,2025-06-06,initechgroup.com,ACC_0016,Initech Group,CMP_1006,camp_6,Closed Won,OPP_0016,2025-06-19,10700.0,2025-07-30,Won,2025-06-08,2025-06-22
+LEAD_0017,2025-03-04,umbrellaindustries.com,ACC_0017,Umbrella Industries,CMP_1018,camp_18,Closed Lost,OPP_0017,2025-03-19,10396.0,2025-06-15,Lost,2025-03-09,2025-03-23
+LEAD_0018,2025-04-11,starkenterprises.com,ACC_0018,Stark Enterprises,CMP_1002,camp_2,Closed Lost,OPP_0018,2025-04-18,16300.0,2025-07-01,Lost,2025-04-15,2025-04-29
+LEAD_0019,2025-09-23,vandelaysolutions.com,ACC_0019,Vandelay Solutions,,,SQL,,,,,,2025-09-27,2025-10-11
+LEAD_0020,2025-07-30,hooliholdings.com,ACC_0020,Hooli Holdings,,,SQL,,,,,,2025-08-05,2025-08-19
+LEAD_0021,2025-06-13,acmelabs.com,ACC_0021,Acme Labs,CMP_1013,camp_13,MQL,,,,,,2025-06-19,2025-07-03
+LEAD_0022,2025-06-21,yahoo.com,ACC_0022,Massive Labs,CMP_1017,camp_17,SQL,,,,,,,
+LEAD_0023,2025-09-09,vehemententerprises.com,ACC_0023,Vehement Enterprises,CMP_1008,camp_8,Closed Won,OPP_0023,2025-10-12,19025.0,2025-10-23,Won,2025-09-18,2025-10-02
+LEAD_0024,2025-08-17,wonkalabs.com,ACC_0024,Wonka Labs,CMP_1018,camp_18,Closed Won,OPP_0024,2025-09-18,17561.0,2025-12-07,Won,2025-08-22,2025-09-05
+LEAD_0025,2025-01-15,globexholdings.com,ACC_0025,Globex Holdings,CMP_1014,camp_14,MQL,,,,,,2025-01-15,2025-01-29
+LEAD_0026,2025-01-13,gmail.com,ACC_0026,Acme Networks,,,SQL,,,,,,2025-01-14,2025-01-28
+LEAD_0027,2025-03-09,hoolilabs.com,ACC_0027,Hooli Labs,CMP_1012,camp_12,Closed Lost,OPP_0027,2025-03-27,13470.0,2025-05-02,Lost,2025-03-17,2025-03-31
+LEAD_0028,2025-04-10,vehementholdings.com,ACC_0028,Vehement Holdings,CMP_1008,camp_8,MQL,,,,,,2025-04-13,2025-04-27
+LEAD_0029,2025-06-07,acmeenterprises.com,ACC_0029,Acme Enterprises,CMP_1002,camp_2,Closed Lost,OPP_0029,2025-06-24,13908.0,2025-09-21,Lost,2025-06-07,2025-06-21
+LEAD_0030,2025-05-23,starkgroup.com,ACC_0030,Stark Group,CMP_1015,camp_15,SQL,,,,,,2025-06-01,2025-06-15
+LEAD_0031,2025-01-04,acmenetworks.com,ACC_0031,Acme Networks,CMP_1005,camp_5,Closed Lost,OPP_0031,2025-02-09,17766.0,2025-03-08,Lost,2025-01-05,2025-01-19
+LEAD_0032,2025-01-12,wayneholdings.com,ACC_0032,Wayne Holdings,CMP_1015,camp_15,Closed Lost,OPP_0032,2025-02-09,17209.0,2025-03-05,Lost,,
+LEAD_0033,2025-09-05,outlook.com,ACC_0033,Wayne Industries,CMP_1016,camp_16,Closed Won,OPP_0033,2025-10-14,5357.0,2025-10-22,Won,2025-09-10,2025-09-24
+LEAD_0034,2025-09-29,vandelaycorporation.com,ACC_0034,Vandelay Corporation,CMP_1017,camp_17,MQL,,,,,,,
+LEAD_0035,2025-03-23,hoolilabs.com,ACC_0035,Hooli Labs,CMP_1005,camp_5,SQL,,,,,,2025-03-30,2025-04-13
+LEAD_0036,2025-09-05,wonkacorporation.com,ACC_0036,Wonka Corporation,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0037,2025-02-18,waynesystems.com,ACC_0037,Wayne Systems,CMP_1008,camp_8,Closed Lost,OPP_0037,2025-03-26,23742.0,2025-03-20,Lost,,
+LEAD_0038,2025-05-23,wonkalabs.com,ACC_0038,Wonka Labs,CMP_1017,camp_17,Closed Lost,OPP_0038,2025-06-19,17005.0,2025-09-13,Lost,2025-05-26,2025-06-09
+LEAD_0039,2025-07-20,vandelayindustries.com,ACC_0039,Vandelay Industries,CMP_1017,camp_17,SQL,,,,,,2025-07-21,2025-08-04
+LEAD_0040,2025-01-20,vehementholdings.com,ACC_0040,Vehement Holdings,CMP_1002,camp_2,Closed Lost,OPP_0040,2025-01-30,19207.0,2025-02-22,Lost,2025-01-20,2025-02-03
+LEAD_0041,2025-06-04,vehementsolutions.com,ACC_0041,Vehement Solutions,CMP_1019,camp_19,Closed Won,OPP_0041,2025-06-23,15541.0,2025-09-13,Won,2025-06-08,2025-06-22
+LEAD_0042,2025-07-25,initechsolutions.com,ACC_0042,Initech Solutions,CMP_1003,camp_3,Closed Won,OPP_0042,2025-08-21,19788.0,2025-09-07,Won,2025-07-31,2025-08-14
+LEAD_0043,2025-06-05,hoolienterprises.com,ACC_0043,Hooli Enterprises,CMP_1003,camp_3,Closed Lost,OPP_0043,2025-06-29,20433.0,2025-09-06,Lost,2025-06-11,2025-06-25
+LEAD_0044,2025-07-12,initechnetworks.com,ACC_0044,Initech Networks,CMP_1006,camp_6,Closed Lost,OPP_0044,2025-08-01,19570.0,2025-10-29,Lost,,
+LEAD_0045,2025-08-23,waynenetworks.com,ACC_0045,Wayne Networks,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0046,2025-04-18,globexcorporation.com,ACC_0046,Globex Corporation,CMP_1005,camp_5,SQL,,,,,,2025-04-19,2025-05-03
+LEAD_0047,2025-07-10,massiveholdings.com,ACC_0047,Massive Holdings,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0048,2025-07-31,hooliindustries.com,ACC_0048,Hooli Industries,CMP_1016,camp_16,Closed Lost,OPP_0048,2025-08-11,7767.0,2025-11-20,Lost,2025-08-08,2025-08-22
+LEAD_0049,2025-03-08,wonkacorporation.com,ACC_0049,Wonka Corporation,CMP_1017,camp_17,SQL,,,,,,2025-03-13,2025-03-27
+LEAD_0050,2025-01-11,soylentindustries.com,ACC_0050,Soylent Industries,CMP_1003,camp_3,SQL,,,,,,2025-01-18,2025-02-01
+LEAD_0051,2025-08-11,waynegroup.com,ACC_0051,Wayne Group,CMP_1004,camp_4,SQL,,,,,,2025-08-13,2025-08-27
+LEAD_0052,2025-06-13,wonkagroup.com,ACC_0052,Wonka Group,CMP_1012,camp_12,SQL,,,,,,2025-06-15,2025-06-29
+LEAD_0053,2025-08-31,starkholdings.com,ACC_0053,Stark Holdings,CMP_1008,camp_8,MQL,,,,,,2025-09-06,2025-09-20
+LEAD_0054,2025-08-27,acmecorporation.com,ACC_0054,Acme Corporation,CMP_1005,camp_5,Closed Lost,OPP_0054,2025-09-21,25195.0,2025-12-18,Lost,,
+LEAD_0055,2025-04-27,vehemententerprises.com,ACC_0055,Vehement Enterprises,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0056,2025-04-25,outlook.com,ACC_0056,Vehement Networks,CMP_1016,camp_16,Closed Lost,OPP_0056,2025-05-16,27391.0,2025-06-24,Lost,2025-05-01,2025-05-15
+LEAD_0057,2025-05-17,vehementcorporation.com,ACC_0057,Vehement Corporation,CMP_1003,camp_3,MQL,,,,,,2025-05-22,2025-06-05
+LEAD_0058,2025-07-11,waynenetworks.com,ACC_0058,Wayne Networks,,,Lead,,,,,,,
+LEAD_0059,2025-09-16,globexnetworks.com,ACC_0059,Globex Networks,CMP_1013,camp_13,SQL,,,,,,2025-09-16,2025-09-30
+LEAD_0060,2025-04-19,outlook.com,ACC_0060,Wonka Enterprises,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0061,2025-04-27,umbrelladynamics.com,ACC_0061,Umbrella Dynamics,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0062,2025-08-30,waynelabs.com,ACC_0062,Wayne Labs,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0063,2025-02-25,starknetworks.com,ACC_0063,Stark Networks,CMP_1014,camp_14,MQL,,,,,,2025-02-25,2025-03-11
+LEAD_0064,2025-04-25,proton.me,ACC_0064,Umbrella Systems,CMP_1011,camp_11,Closed Lost,OPP_0064,2025-05-24,14944.0,2025-06-25,Lost,2025-04-27,2025-05-11
+LEAD_0065,2025-06-12,waynesolutions.com,ACC_0065,Wayne Solutions,,,Lead,,,,,,,
+LEAD_0066,2025-02-28,hooliindustries.com,ACC_0066,Hooli Industries,CMP_1014,camp_14,Closed Lost,OPP_0066,2025-03-23,4000.0,2025-05-16,Lost,,
+LEAD_0067,2025-01-20,vehementlabs.com,ACC_0067,Vehement Labs,CMP_1003,camp_3,MQL,,,,,,2025-01-26,2025-02-09
+LEAD_0068,2025-03-27,yahoo.com,ACC_0068,Umbrella Networks,CMP_1005,camp_5,MQL,,,,,,2025-03-31,2025-04-14
+LEAD_0069,2025-01-22,outlook.com,ACC_0069,Umbrella Industries,CMP_1001,camp_1,Closed Won,OPP_0069,2025-02-21,16250.0,2025-03-17,Won,2025-01-27,2025-02-10
+LEAD_0070,2025-04-18,umbrellasolutions.com,ACC_0070,Umbrella Solutions,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0071,2025-05-01,massivesystems.com,ACC_0071,Massive Systems,CMP_1019,camp_19,Lead,,,,,,,
+LEAD_0072,2025-05-29,globexdynamics.com,ACC_0072,Globex Dynamics,,,SQL,,,,,,2025-05-31,2025-06-14
+LEAD_0073,2025-06-14,yahoo.com,ACC_0073,Wayne Labs,CMP_1007,camp_7,Lead,,,,,,,
+LEAD_0074,2025-02-21,waynenetworks.com,ACC_0074,Wayne Networks,CMP_1004,camp_4,Lead,,,,,,,
+LEAD_0075,2025-05-11,vehementcorporation.com,ACC_0075,Vehement Corporation,CMP_1006,camp_6,MQL,,,,,,2025-05-11,2025-05-25
+LEAD_0076,2025-03-17,proton.me,ACC_0076,Vehement Corporation,CMP_1007,camp_7,MQL,,,,,,2025-03-23,2025-04-06
+LEAD_0077,2025-07-05,soylentgroup.com,ACC_0077,Soylent Group,CMP_1013,camp_13,MQL,,,,,,2025-07-06,2025-07-20
+LEAD_0078,2025-08-05,wonkaholdings.com,ACC_0078,Wonka Holdings,CMP_1012,camp_12,MQL,,,,,,2025-08-14,2025-08-28
+LEAD_0079,2025-01-22,acmesolutions.com,ACC_0079,Acme Solutions,,,SQL,,,,,,2025-01-26,2025-02-09
+LEAD_0080,2025-08-12,wonkadynamics.com,ACC_0080,Wonka Dynamics,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0081,2025-07-29,soylententerprises.com,ACC_0081,Soylent Enterprises,CMP_1007,camp_7,MQL,,,,,,2025-08-06,2025-08-20
+LEAD_0082,2025-01-11,hoolisystems.com,ACC_0082,Hooli Systems,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0083,2025-06-17,yahoo.com,ACC_0083,Vehement Corporation,CMP_1006,camp_6,SQL,,,,,,2025-06-19,2025-07-03
+LEAD_0084,2025-05-30,massiveindustries.com,ACC_0084,Massive Industries,CMP_1010,camp_10,MQL,,,,,,2025-06-02,2025-06-16
+LEAD_0085,2025-06-19,massivedynamics.com,ACC_0085,Massive Dynamics,CMP_1019,camp_19,MQL,,,,,,,
+LEAD_0086,2025-06-03,yahoo.com,ACC_0086,Soylent Enterprises,CMP_1013,camp_13,Closed Won,OPP_0086,2025-06-15,22933.0,2025-08-15,Won,2025-06-05,2025-06-19
+LEAD_0087,2025-07-01,wonkadynamics.com,ACC_0087,Wonka Dynamics,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0088,2025-02-12,globexindustries.com,ACC_0088,Globex Industries,CMP_1012,camp_12,MQL,,,,,,,
+LEAD_0089,2025-01-04,waynegroup.com,ACC_0089,Wayne Group,CMP_1009,camp_9,MQL,,,,,,2025-01-13,2025-01-27
+LEAD_0090,2025-02-28,wayneholdings.com,ACC_0090,Wayne Holdings,CMP_1010,camp_10,Closed Won,OPP_0090,2025-03-25,24419.0,2025-03-29,Won,2025-03-03,2025-03-17
+LEAD_0091,2025-06-14,wayneenterprises.com,ACC_0091,Wayne Enterprises,CMP_1004,camp_4,Closed Lost,OPP_0091,2025-07-08,15229.0,2025-09-03,Lost,2025-06-17,2025-07-01
+LEAD_0092,2025-03-30,umbrellagroup.com,ACC_0092,Umbrella Group,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0093,2025-09-13,waynesystems.com,ACC_0093,Wayne Systems,CMP_1011,camp_11,MQL,,,,,,2025-09-18,2025-10-02
+LEAD_0094,2025-06-01,initechholdings.com,ACC_0094,Initech Holdings,CMP_1019,camp_19,Closed Won,OPP_0094,2025-07-01,18088.0,2025-08-02,Won,2025-06-08,2025-06-22
+LEAD_0095,2025-08-24,gmail.com,ACC_0095,Acme Holdings,,,Lead,,,,,,,
+LEAD_0096,2025-03-21,hoolinetworks.com,ACC_0096,Hooli Networks,CMP_1007,camp_7,Closed Won,OPP_0096,2025-04-27,21174.0,2025-05-11,Won,2025-03-21,2025-04-04
+LEAD_0097,2025-04-10,gmail.com,ACC_0097,Stark Corporation,CMP_1006,camp_6,Closed Lost,OPP_0097,2025-04-26,26167.0,2025-07-17,Lost,2025-04-16,2025-04-30
+LEAD_0098,2025-07-04,vehementholdings.com,ACC_0098,Vehement Holdings,CMP_1010,camp_10,SQL,,,,,,2025-07-09,2025-07-23
+LEAD_0099,2025-03-11,yahoo.com,ACC_0099,Wayne Labs,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0100,2025-09-30,starklabs.com,ACC_0100,Stark Labs,CMP_1007,camp_7,Lead,,,,,,,
+LEAD_0101,2025-05-30,starknetworks.com,ACC_0101,Stark Networks,CMP_1003,camp_3,MQL,,,,,,,
+LEAD_0102,2025-02-13,massiveenterprises.com,ACC_0102,Massive Enterprises,CMP_1009,camp_9,SQL,,,,,,2025-02-16,2025-03-02
+LEAD_0103,2025-01-23,acmeholdings.com,ACC_0103,Acme Holdings,CMP_1004,camp_4,Closed Lost,OPP_0103,2025-02-07,22060.0,2025-05-19,Lost,2025-01-28,2025-02-11
+LEAD_0104,2025-03-17,acmedynamics.com,ACC_0104,Acme Dynamics,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0105,2025-02-02,hoolisolutions.com,ACC_0105,Hooli Solutions,CMP_1012,camp_12,Lead,,,,,,,
+LEAD_0106,2025-06-11,globexgroup.com,ACC_0106,Globex Group,,,MQL,,,,,,2025-06-13,2025-06-27
+LEAD_0107,2025-02-24,massiveenterprises.com,ACC_0107,Massive Enterprises,CMP_1010,camp_10,MQL,,,,,,,
+LEAD_0108,2025-09-14,outlook.com,ACC_0108,Umbrella Group,CMP_1003,camp_3,MQL,,,,,,,
+LEAD_0109,2025-05-14,starkgroup.com,ACC_0109,Stark Group,CMP_1015,camp_15,Closed Lost,OPP_0109,2025-06-02,26144.0,2025-06-25,Lost,2025-05-17,2025-05-31
+LEAD_0110,2025-01-31,massivedynamics.com,ACC_0110,Massive Dynamics,CMP_1015,camp_15,Closed Lost,OPP_0110,2025-03-06,26257.0,2025-04-28,Lost,2025-02-01,2025-02-15
+LEAD_0111,2025-09-24,waynesystems.com,ACC_0111,Wayne Systems,CMP_1009,camp_9,Closed Lost,OPP_0111,2025-10-14,24395.0,2026-01-12,Lost,2025-10-03,2025-10-17
+LEAD_0112,2025-08-25,wonkagroup.com,ACC_0112,Wonka Group,CMP_1014,camp_14,MQL,,,,,,2025-08-28,2025-09-11
+LEAD_0113,2025-08-20,vehementdynamics.com,ACC_0113,Vehement Dynamics,CMP_1007,camp_7,SQL,,,,,,2025-08-26,2025-09-09
+LEAD_0114,2025-09-14,starkenterprises.com,ACC_0114,Stark Enterprises,CMP_1002,camp_2,Closed Lost,OPP_0114,2025-10-01,11720.0,2025-12-17,Lost,2025-09-17,2025-10-01
+LEAD_0115,2025-04-23,acmecorporation.com,ACC_0115,Acme Corporation,CMP_1009,camp_9,MQL,,,,,,2025-04-25,2025-05-09
+LEAD_0116,2025-08-30,globexindustries.com,ACC_0116,Globex Industries,CMP_1019,camp_19,Closed Won,OPP_0116,2025-10-02,17485.0,2025-09-28,Won,2025-08-31,2025-09-14
+LEAD_0117,2025-03-21,hooligroup.com,ACC_0117,Hooli Group,CMP_1011,camp_11,MQL,,,,,,2025-03-30,2025-04-13
+LEAD_0118,2025-06-10,wonkacorporation.com,ACC_0118,Wonka Corporation,CMP_1007,camp_7,Closed Lost,OPP_0118,2025-06-29,22763.0,2025-07-19,Lost,2025-06-17,2025-07-01
+LEAD_0119,2025-01-27,soylentnetworks.com,ACC_0119,Soylent Networks,CMP_1016,camp_16,Lead,,,,,,,
+LEAD_0120,2025-03-01,acmegroup.com,ACC_0120,Acme Group,CMP_1008,camp_8,SQL,,,,,,2025-03-01,2025-03-15
+LEAD_0121,2025-09-17,vehementcorporation.com,ACC_0121,Vehement Corporation,CMP_1005,camp_5,Closed Lost,OPP_0121,2025-10-22,18486.0,2025-10-16,Lost,2025-09-22,2025-10-06
+LEAD_0122,2025-05-07,wayneenterprises.com,ACC_0122,Wayne Enterprises,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0123,2025-04-13,umbrelladynamics.com,ACC_0123,Umbrella Dynamics,CMP_1019,camp_19,SQL,,,,,,2025-04-21,2025-05-05
+LEAD_0124,2025-05-20,acmegroup.com,ACC_0124,Acme Group,CMP_1001,camp_1,Closed Lost,OPP_0124,2025-06-19,24836.0,2025-08-14,Lost,2025-05-26,2025-06-09
+LEAD_0125,2025-09-25,vehementdynamics.com,ACC_0125,Vehement Dynamics,CMP_1018,camp_18,MQL,,,,,,2025-10-04,2025-10-18
+LEAD_0126,2025-02-03,starkdynamics.com,ACC_0126,Stark Dynamics,CMP_1003,camp_3,Closed Won,OPP_0126,2025-02-12,6505.0,2025-05-28,Won,,
+LEAD_0127,2025-04-09,acmeenterprises.com,ACC_0127,Acme Enterprises,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0128,2025-09-12,wonkaholdings.com,ACC_0128,Wonka Holdings,CMP_1013,camp_13,MQL,,,,,,2025-09-20,2025-10-04
+LEAD_0129,2025-02-24,umbrellalabs.com,ACC_0129,Umbrella Labs,CMP_1014,camp_14,Closed Won,OPP_0129,2025-03-24,21059.0,2025-06-18,Won,2025-03-03,2025-03-17
+LEAD_0130,2025-04-20,starksolutions.com,ACC_0130,Stark Solutions,CMP_1016,camp_16,MQL,,,,,,,
+LEAD_0131,2025-02-04,yahoo.com,ACC_0131,Initech Holdings,CMP_1015,camp_15,SQL,,,,,,2025-02-12,2025-02-26
+LEAD_0132,2025-03-29,wayneholdings.com,ACC_0132,Wayne Holdings,CMP_1008,camp_8,Closed Lost,OPP_0132,2025-05-06,24458.0,2025-07-10,Lost,2025-03-29,2025-04-12
+LEAD_0133,2025-06-09,acmedynamics.com,ACC_0133,Acme Dynamics,CMP_1014,camp_14,Closed Won,OPP_0133,2025-06-23,10108.0,2025-07-09,Won,2025-06-15,2025-06-29
+LEAD_0134,2025-09-28,acmegroup.com,ACC_0134,Acme Group,,,Closed Lost,OPP_0134,2025-10-18,20912.0,2026-01-17,Lost,2025-10-01,2025-10-15
+LEAD_0135,2025-06-24,vandelaycorporation.com,ACC_0135,Vandelay Corporation,CMP_1018,camp_18,MQL,,,,,,2025-07-02,2025-07-16
+LEAD_0136,2025-09-29,umbrellaindustries.com,ACC_0136,Umbrella Industries,CMP_1012,camp_12,Closed Won,OPP_0136,2025-11-06,18119.0,2025-11-14,Won,2025-09-30,2025-10-14
+LEAD_0137,2025-04-30,starknetworks.com,ACC_0137,Stark Networks,CMP_1018,camp_18,MQL,,,,,,2025-05-06,2025-05-20
+LEAD_0138,2025-02-12,initechnetworks.com,ACC_0138,Initech Networks,CMP_1017,camp_17,SQL,,,,,,,
+LEAD_0139,2025-01-04,umbrellasolutions.com,ACC_0139,Umbrella Solutions,CMP_1014,camp_14,Closed Lost,OPP_0139,2025-02-10,11261.0,2025-02-05,Lost,,
+LEAD_0140,2025-01-19,yahoo.com,ACC_0140,Soylent Group,CMP_1012,camp_12,Lead,,,,,,,
+LEAD_0141,2025-01-07,yahoo.com,ACC_0141,Umbrella Solutions,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0142,2025-07-15,vehementlabs.com,ACC_0142,Vehement Labs,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0143,2025-05-12,globexgroup.com,ACC_0143,Globex Group,CMP_1012,camp_12,SQL,,,,,,2025-05-17,2025-05-31
+LEAD_0144,2025-05-01,massivenetworks.com,ACC_0144,Massive Networks,CMP_1007,camp_7,SQL,,,,,,2025-05-03,2025-05-17
+LEAD_0145,2025-04-24,proton.me,ACC_0145,Vehement Solutions,CMP_1010,camp_10,SQL,,,,,,2025-05-03,2025-05-17
+LEAD_0146,2025-05-29,umbrellanetworks.com,ACC_0146,Umbrella Networks,CMP_1015,camp_15,MQL,,,,,,2025-06-03,2025-06-17
+LEAD_0147,2025-01-12,globexholdings.com,ACC_0147,Globex Holdings,,,Lead,,,,,,,
+LEAD_0148,2025-04-06,hooligroup.com,ACC_0148,Hooli Group,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0149,2025-05-30,globexindustries.com,ACC_0149,Globex Industries,CMP_1015,camp_15,Closed Lost,OPP_0149,2025-06-15,32051.0,2025-07-07,Lost,2025-06-02,2025-06-16
+LEAD_0150,2025-06-01,massiveholdings.com,ACC_0150,Massive Holdings,CMP_1009,camp_9,Closed Won,OPP_0150,2025-06-19,21364.0,2025-07-30,Won,,
+LEAD_0151,2025-05-11,vandelayholdings.com,ACC_0151,Vandelay Holdings,CMP_1012,camp_12,SQL,,,,,,2025-05-15,2025-05-29
+LEAD_0152,2025-06-10,vehemententerprises.com,ACC_0152,Vehement Enterprises,CMP_1004,camp_4,SQL,,,,,,,
+LEAD_0153,2025-01-18,yahoo.com,ACC_0153,Initech Group,CMP_1019,camp_19,SQL,,,,,,2025-01-19,2025-02-02
+LEAD_0154,2025-02-05,initechsystems.com,ACC_0154,Initech Systems,CMP_1003,camp_3,Closed Lost,OPP_0154,2025-03-10,19593.0,2025-04-06,Lost,2025-02-12,2025-02-26
+LEAD_0155,2025-03-28,umbrellasystems.com,ACC_0155,Umbrella Systems,CMP_1016,camp_16,SQL,,,,,,2025-04-01,2025-04-15
+LEAD_0156,2025-09-01,acmesystems.com,ACC_0156,Acme Systems,CMP_1001,camp_1,Closed Lost,OPP_0156,2025-09-08,17866.0,2025-11-16,Lost,2025-09-05,2025-09-19
+LEAD_0157,2025-02-15,umbrellalabs.com,ACC_0157,Umbrella Labs,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0158,2025-03-03,hooliindustries.com,ACC_0158,Hooli Industries,CMP_1013,camp_13,Closed Lost,OPP_0158,2025-03-16,25409.0,2025-04-12,Lost,2025-03-09,2025-03-23
+LEAD_0159,2025-07-09,acmeholdings.com,ACC_0159,Acme Holdings,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0160,2025-06-28,vandelayenterprises.com,ACC_0160,Vandelay Enterprises,CMP_1011,camp_11,Lead,,,,,,,
+LEAD_0161,2025-07-27,vehementindustries.com,ACC_0161,Vehement Industries,CMP_1011,camp_11,MQL,,,,,,2025-08-03,2025-08-17
+LEAD_0162,2025-07-31,outlook.com,ACC_0162,Acme Systems,CMP_1015,camp_15,SQL,,,,,,2025-08-03,2025-08-17
+LEAD_0163,2025-05-02,wonkaholdings.com,ACC_0163,Wonka Holdings,CMP_1001,camp_1,MQL,,,,,,2025-05-09,2025-05-23
+LEAD_0164,2025-08-30,yahoo.com,ACC_0164,Wonka Solutions,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0165,2025-09-07,initechsolutions.com,ACC_0165,Initech Solutions,CMP_1009,camp_9,SQL,,,,,,2025-09-10,2025-09-24
+LEAD_0166,2025-08-08,globexsolutions.com,ACC_0166,Globex Solutions,CMP_1016,camp_16,SQL,,,,,,2025-08-12,2025-08-26
+LEAD_0167,2025-01-08,vandelayenterprises.com,ACC_0167,Vandelay Enterprises,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0168,2025-08-15,yahoo.com,ACC_0168,Umbrella Networks,CMP_1004,camp_4,SQL,,,,,,2025-08-15,2025-08-29
+LEAD_0169,2025-06-07,acmeenterprises.com,ACC_0169,Acme Enterprises,CMP_1016,camp_16,Closed Won,OPP_0169,2025-06-20,30225.0,2025-09-30,Won,2025-06-16,2025-06-30
+LEAD_0170,2025-06-23,initechgroup.com,ACC_0170,Initech Group,CMP_1001,camp_1,MQL,,,,,,2025-07-01,2025-07-15
+LEAD_0171,2025-09-20,umbrellaholdings.com,ACC_0171,Umbrella Holdings,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0172,2025-04-06,umbrellanetworks.com,ACC_0172,Umbrella Networks,CMP_1018,camp_18,Closed Lost,OPP_0172,2025-04-27,26066.0,2025-06-22,Lost,2025-04-12,2025-04-26
+LEAD_0173,2025-03-09,vandelayholdings.com,ACC_0173,Vandelay Holdings,CMP_1010,camp_10,MQL,,,,,,2025-03-16,2025-03-30
+LEAD_0174,2025-05-01,hoolinetworks.com,ACC_0174,Hooli Networks,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0175,2025-06-10,umbrellaholdings.com,ACC_0175,Umbrella Holdings,CMP_1004,camp_4,SQL,,,,,,2025-06-12,2025-06-26
+LEAD_0176,2025-03-29,proton.me,ACC_0176,Globex Group,CMP_1008,camp_8,Closed Lost,OPP_0176,2025-04-07,27071.0,2025-05-13,Lost,2025-04-07,2025-04-21
+LEAD_0177,2025-05-13,acmesolutions.com,ACC_0177,Acme Solutions,CMP_1019,camp_19,SQL,,,,,,2025-05-21,2025-06-04
+LEAD_0178,2025-07-29,initechgroup.com,ACC_0178,Initech Group,CMP_1001,camp_1,SQL,,,,,,2025-08-06,2025-08-20
+LEAD_0179,2025-04-14,wonkalabs.com,ACC_0179,Wonka Labs,CMP_1012,camp_12,Closed Won,OPP_0179,2025-05-03,12774.0,2025-07-19,Won,,
+LEAD_0180,2025-08-02,initechlabs.com,ACC_0180,Initech Labs,CMP_1015,camp_15,Closed Won,OPP_0180,2025-08-20,19321.0,2025-10-07,Won,2025-08-08,2025-08-22
+LEAD_0181,2025-06-06,soylententerprises.com,ACC_0181,Soylent Enterprises,CMP_1018,camp_18,Closed Lost,OPP_0181,2025-06-23,26636.0,2025-09-12,Lost,2025-06-10,2025-06-24
+LEAD_0182,2025-09-13,vehementdynamics.com,ACC_0182,Vehement Dynamics,CMP_1004,camp_4,MQL,,,,,,2025-09-20,2025-10-04
+LEAD_0183,2025-09-17,acmegroup.com,ACC_0183,Acme Group,CMP_1007,camp_7,Lead,,,,,,,
+LEAD_0184,2025-04-13,vehemententerprises.com,ACC_0184,Vehement Enterprises,CMP_1009,camp_9,Closed Lost,OPP_0184,2025-05-16,26276.0,2025-08-03,Lost,2025-04-20,2025-05-04
+LEAD_0185,2025-02-04,outlook.com,ACC_0185,Stark Enterprises,CMP_1016,camp_16,SQL,,,,,,2025-02-07,2025-02-21
+LEAD_0186,2025-04-20,umbrellaholdings.com,ACC_0186,Umbrella Holdings,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0187,2025-02-08,acmelabs.com,ACC_0187,Acme Labs,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0188,2025-07-23,vehementlabs.com,ACC_0188,Vehement Labs,CMP_1016,camp_16,Closed Lost,OPP_0188,2025-08-20,21327.0,2025-08-20,Lost,2025-07-25,2025-08-08
+LEAD_0189,2025-05-30,massiveenterprises.com,ACC_0189,Massive Enterprises,CMP_1012,camp_12,SQL,,,,,,2025-06-01,2025-06-15
+LEAD_0190,2025-08-27,wonkalabs.com,ACC_0190,Wonka Labs,CMP_1017,camp_17,Closed Won,OPP_0190,2025-09-12,20935.0,2025-10-18,Won,2025-09-02,2025-09-16
+LEAD_0191,2025-02-13,proton.me,ACC_0191,Vandelay Systems,CMP_1009,camp_9,Closed Won,OPP_0191,2025-03-06,35629.0,2025-04-22,Won,2025-02-22,2025-03-08
+LEAD_0192,2025-07-27,outlook.com,ACC_0192,Hooli Corporation,CMP_1002,camp_2,SQL,,,,,,,
+LEAD_0193,2025-05-26,hoolicorporation.com,ACC_0193,Hooli Corporation,CMP_1013,camp_13,Closed Lost,OPP_0193,2025-06-25,28943.0,2025-08-11,Lost,2025-05-27,2025-06-10
+LEAD_0194,2025-03-14,soylentcorporation.com,ACC_0194,Soylent Corporation,CMP_1014,camp_14,Closed Won,OPP_0194,2025-03-28,23601.0,2025-06-27,Won,2025-03-14,2025-03-28
+LEAD_0195,2025-07-23,acmecorporation.com,ACC_0195,Acme Corporation,CMP_1017,camp_17,MQL,,,,,,2025-07-23,2025-08-06
+LEAD_0196,2025-03-04,proton.me,ACC_0196,Globex Enterprises,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0197,2025-02-09,acmelabs.com,ACC_0197,Acme Labs,CMP_1019,camp_19,Closed Lost,OPP_0197,2025-02-25,29111.0,2025-05-04,Lost,2025-02-18,2025-03-04
+LEAD_0198,2025-01-13,initechsystems.com,ACC_0198,Initech Systems,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0199,2025-09-07,soylentholdings.com,ACC_0199,Soylent Holdings,CMP_1011,camp_11,Lead,,,,,,,
+LEAD_0200,2025-04-05,umbrellaholdings.com,ACC_0200,Umbrella Holdings,CMP_1006,camp_6,SQL,,,,,,,
+LEAD_0201,2025-07-26,acmeindustries.com,ACC_0201,Acme Industries,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0202,2025-05-07,initechlabs.com,ACC_0202,Initech Labs,CMP_1017,camp_17,SQL,,,,,,2025-05-11,2025-05-25
+LEAD_0203,2025-09-23,soylentlabs.com,ACC_0203,Soylent Labs,CMP_1014,camp_14,SQL,,,,,,,
+LEAD_0204,2025-06-29,initechindustries.com,ACC_0204,Initech Industries,CMP_1007,camp_7,Lead,,,,,,,
+LEAD_0205,2025-01-16,yahoo.com,ACC_0205,Wayne Group,CMP_1011,camp_11,MQL,,,,,,2025-01-20,2025-02-03
+LEAD_0206,2025-04-17,umbrellasystems.com,ACC_0206,Umbrella Systems,CMP_1013,camp_13,Closed Won,OPP_0206,2025-05-12,5674.0,2025-08-01,Won,2025-04-19,2025-05-03
+LEAD_0207,2025-01-02,umbrellaholdings.com,ACC_0207,Umbrella Holdings,,,Lead,,,,,,,
+LEAD_0208,2025-02-16,waynecorporation.com,ACC_0208,Wayne Corporation,CMP_1019,camp_19,Lead,,,,,,,
+LEAD_0209,2025-02-26,globexindustries.com,ACC_0209,Globex Industries,CMP_1019,camp_19,Closed Lost,OPP_0209,2025-03-19,4000.0,2025-06-13,Lost,2025-03-02,2025-03-16
+LEAD_0210,2025-06-23,yahoo.com,ACC_0210,Stark Enterprises,CMP_1002,camp_2,MQL,,,,,,2025-06-23,2025-07-07
+LEAD_0211,2025-03-11,yahoo.com,ACC_0211,Vandelay Holdings,CMP_1016,camp_16,Closed Won,OPP_0211,2025-03-19,14589.0,2025-05-29,Won,2025-03-17,2025-03-31
+LEAD_0212,2025-02-25,waynesystems.com,ACC_0212,Wayne Systems,CMP_1015,camp_15,MQL,,,,,,2025-03-05,2025-03-19
+LEAD_0213,2025-03-28,acmeindustries.com,ACC_0213,Acme Industries,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0214,2025-08-13,vehementlabs.com,ACC_0214,Vehement Labs,,,MQL,,,,,,,
+LEAD_0215,2025-03-09,globexsystems.com,ACC_0215,Globex Systems,CMP_1001,camp_1,SQL,,,,,,2025-03-11,2025-03-25
+LEAD_0216,2025-08-12,starksystems.com,ACC_0216,Stark Systems,CMP_1015,camp_15,Closed Won,OPP_0216,2025-09-08,25529.0,2025-12-09,Won,2025-08-20,2025-09-03
+LEAD_0217,2025-03-28,initechnetworks.com,ACC_0217,Initech Networks,CMP_1004,camp_4,Lead,,,,,,,
+LEAD_0218,2025-06-14,acmedynamics.com,ACC_0218,Acme Dynamics,CMP_1003,camp_3,Lead,,,,,,,
+LEAD_0219,2025-07-03,vandelaynetworks.com,ACC_0219,Vandelay Networks,CMP_1005,camp_5,SQL,,,,,,2025-07-09,2025-07-23
+LEAD_0220,2025-07-24,starkholdings.com,ACC_0220,Stark Holdings,CMP_1011,camp_11,MQL,,,,,,2025-07-25,2025-08-08
+LEAD_0221,2025-07-16,vehemententerprises.com,ACC_0221,Vehement Enterprises,CMP_1012,camp_12,Closed Won,OPP_0221,2025-08-05,14347.0,2025-10-03,Won,2025-07-19,2025-08-02
+LEAD_0222,2025-01-17,waynecorporation.com,ACC_0222,Wayne Corporation,CMP_1015,camp_15,SQL,,,,,,2025-01-21,2025-02-04
+LEAD_0223,2025-03-28,hooliindustries.com,ACC_0223,Hooli Industries,CMP_1016,camp_16,SQL,,,,,,2025-03-31,2025-04-14
+LEAD_0224,2025-05-24,massivesolutions.com,ACC_0224,Massive Solutions,CMP_1011,camp_11,SQL,,,,,,2025-06-02,2025-06-16
+LEAD_0225,2025-01-02,wayneenterprises.com,ACC_0225,Wayne Enterprises,CMP_1012,camp_12,SQL,,,,,,2025-01-02,2025-01-16
+LEAD_0226,2025-05-17,wonkaindustries.com,ACC_0226,Wonka Industries,CMP_1016,camp_16,MQL,,,,,,,
+LEAD_0227,2025-09-06,waynenetworks.com,ACC_0227,Wayne Networks,CMP_1016,camp_16,MQL,,,,,,2025-09-10,2025-09-24
+LEAD_0228,2025-09-11,acmesolutions.com,ACC_0228,Acme Solutions,CMP_1017,camp_17,SQL,,,,,,2025-09-16,2025-09-30
+LEAD_0229,2025-05-27,globexholdings.com,ACC_0229,Globex Holdings,CMP_1016,camp_16,Lead,,,,,,,
+LEAD_0230,2025-03-18,wonkacorporation.com,ACC_0230,Wonka Corporation,CMP_1011,camp_11,SQL,,,,,,,
+LEAD_0231,2025-05-25,proton.me,ACC_0231,Massive Enterprises,CMP_1009,camp_9,Closed Lost,OPP_0231,2025-06-25,25776.0,2025-08-03,Lost,2025-06-01,2025-06-15
+LEAD_0232,2025-08-20,soylentlabs.com,ACC_0232,Soylent Labs,CMP_1019,camp_19,SQL,,,,,,2025-08-25,2025-09-08
+LEAD_0233,2025-07-06,wonkadynamics.com,ACC_0233,Wonka Dynamics,CMP_1014,camp_14,SQL,,,,,,2025-07-12,2025-07-26
+LEAD_0234,2025-06-25,wonkanetworks.com,ACC_0234,Wonka Networks,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0235,2025-01-03,umbrellaholdings.com,ACC_0235,Umbrella Holdings,CMP_1017,camp_17,SQL,,,,,,2025-01-03,2025-01-17
+LEAD_0236,2025-04-28,vandelaylabs.com,ACC_0236,Vandelay Labs,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0237,2025-04-29,umbrellasystems.com,ACC_0237,Umbrella Systems,CMP_1013,camp_13,MQL,,,,,,,
+LEAD_0238,2025-02-01,wonkaenterprises.com,ACC_0238,Wonka Enterprises,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0239,2025-03-20,hooligroup.com,ACC_0239,Hooli Group,CMP_1013,camp_13,MQL,,,,,,2025-03-24,2025-04-07
+LEAD_0240,2025-02-18,starknetworks.com,ACC_0240,Stark Networks,CMP_1011,camp_11,Closed Lost,OPP_0240,2025-03-22,11647.0,2025-05-31,Lost,2025-02-24,2025-03-10
+LEAD_0241,2025-05-02,gmail.com,ACC_0241,Vehement Corporation,CMP_1010,camp_10,SQL,,,,,,2025-05-06,2025-05-20
+LEAD_0242,2025-04-10,yahoo.com,ACC_0242,Hooli Industries,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0243,2025-09-16,starkindustries.com,ACC_0243,Stark Industries,CMP_1012,camp_12,SQL,,,,,,2025-09-20,2025-10-04
+LEAD_0244,2025-01-20,vandelaycorporation.com,ACC_0244,Vandelay Corporation,CMP_1008,camp_8,SQL,,,,,,2025-01-29,2025-02-12
+LEAD_0245,2025-01-19,proton.me,ACC_0245,Umbrella Enterprises,CMP_1006,camp_6,MQL,,,,,,2025-01-25,2025-02-08
+LEAD_0246,2025-07-24,initechlabs.com,ACC_0246,Initech Labs,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0247,2025-02-09,initechdynamics.com,ACC_0247,Initech Dynamics,CMP_1012,camp_12,Lead,,,,,,,
+LEAD_0248,2025-09-29,globexsolutions.com,ACC_0248,Globex Solutions,CMP_1011,camp_11,Closed Lost,OPP_0248,2025-10-19,28472.0,2025-11-10,Lost,2025-10-04,2025-10-18
+LEAD_0249,2025-01-11,globexlabs.com,ACC_0249,Globex Labs,,,Closed Lost,OPP_0249,2025-01-27,22179.0,2025-04-13,Lost,2025-01-11,2025-01-25
+LEAD_0250,2025-09-16,wayneindustries.com,ACC_0250,Wayne Industries,CMP_1009,camp_9,SQL,,,,,,2025-09-24,2025-10-08
+LEAD_0251,2025-06-30,starkenterprises.com,ACC_0251,Stark Enterprises,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0252,2025-07-06,initechsolutions.com,ACC_0252,Initech Solutions,CMP_1004,camp_4,Closed Lost,OPP_0252,2025-08-08,17695.0,2025-08-29,Lost,2025-07-07,2025-07-21
+LEAD_0253,2025-09-15,hoolilabs.com,ACC_0253,Hooli Labs,CMP_1013,camp_13,Closed Won,OPP_0253,2025-10-23,20144.0,2025-12-14,Won,2025-09-16,2025-09-30
+LEAD_0254,2025-01-01,massivesolutions.com,ACC_0254,Massive Solutions,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0255,2025-03-19,vehementnetworks.com,ACC_0255,Vehement Networks,CMP_1013,camp_13,MQL,,,,,,2025-03-25,2025-04-08
+LEAD_0256,2025-01-27,globexnetworks.com,ACC_0256,Globex Networks,CMP_1009,camp_9,SQL,,,,,,2025-01-31,2025-02-14
+LEAD_0257,2025-02-09,globexenterprises.com,ACC_0257,Globex Enterprises,CMP_1004,camp_4,SQL,,,,,,2025-02-12,2025-02-26
+LEAD_0258,2025-03-30,starksolutions.com,ACC_0258,Stark Solutions,CMP_1011,camp_11,MQL,,,,,,2025-04-05,2025-04-19
+LEAD_0259,2025-06-25,soylentsystems.com,ACC_0259,Soylent Systems,CMP_1019,camp_19,MQL,,,,,,2025-06-25,2025-07-09
+LEAD_0260,2025-04-05,acmelabs.com,ACC_0260,Acme Labs,CMP_1012,camp_12,MQL,,,,,,,
+LEAD_0261,2025-02-08,globexdynamics.com,ACC_0261,Globex Dynamics,CMP_1015,camp_15,Closed Won,OPP_0261,2025-02-25,16996.0,2025-05-02,Won,2025-02-11,2025-02-25
+LEAD_0262,2025-08-02,globexgroup.com,ACC_0262,Globex Group,,,Lead,,,,,,,
+LEAD_0263,2025-08-31,gmail.com,ACC_0263,Hooli Enterprises,CMP_1002,camp_2,Closed Won,OPP_0263,2025-09-22,20269.0,2025-12-11,Won,,
+LEAD_0264,2025-01-21,vandelaycorporation.com,ACC_0264,Vandelay Corporation,,,SQL,,,,,,2025-01-30,2025-02-13
+LEAD_0265,2025-01-24,initechholdings.com,ACC_0265,Initech Holdings,CMP_1009,camp_9,MQL,,,,,,2025-01-25,2025-02-08
+LEAD_0266,2025-08-14,acmeholdings.com,ACC_0266,Acme Holdings,,,MQL,,,,,,2025-08-22,2025-09-05
+LEAD_0267,2025-05-20,umbrellasystems.com,ACC_0267,Umbrella Systems,CMP_1005,camp_5,Closed Won,OPP_0267,2025-06-26,26062.0,2025-09-12,Won,2025-05-20,2025-06-03
+LEAD_0268,2025-07-29,acmeholdings.com,ACC_0268,Acme Holdings,CMP_1016,camp_16,MQL,,,,,,2025-08-01,2025-08-15
+LEAD_0269,2025-04-16,initechlabs.com,ACC_0269,Initech Labs,CMP_1019,camp_19,SQL,,,,,,2025-04-25,2025-05-09
+LEAD_0270,2025-05-26,yahoo.com,ACC_0270,Initech Networks,CMP_1002,camp_2,MQL,,,,,,2025-05-29,2025-06-12
+LEAD_0271,2025-02-09,starkholdings.com,ACC_0271,Stark Holdings,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0272,2025-05-18,initechholdings.com,ACC_0272,Initech Holdings,CMP_1005,camp_5,Closed Won,OPP_0272,2025-06-21,15725.0,2025-09-07,Won,2025-05-18,2025-06-01
+LEAD_0273,2025-07-15,starklabs.com,ACC_0273,Stark Labs,CMP_1018,camp_18,MQL,,,,,,,
+LEAD_0274,2025-03-06,acmelabs.com,ACC_0274,Acme Labs,CMP_1013,camp_13,SQL,,,,,,2025-03-15,2025-03-29
+LEAD_0275,2025-01-23,massiveholdings.com,ACC_0275,Massive Holdings,CMP_1013,camp_13,Closed Won,OPP_0275,2025-02-04,27481.0,2025-04-11,Won,,
+LEAD_0276,2025-06-01,starkdynamics.com,ACC_0276,Stark Dynamics,CMP_1012,camp_12,Closed Won,OPP_0276,2025-06-22,12512.0,2025-08-27,Won,2025-06-10,2025-06-24
+LEAD_0277,2025-09-11,acmenetworks.com,ACC_0277,Acme Networks,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0278,2025-04-30,wonkasystems.com,ACC_0278,Wonka Systems,CMP_1001,camp_1,Closed Lost,OPP_0278,2025-05-21,10284.0,2025-06-13,Lost,,
+LEAD_0279,2025-02-19,outlook.com,ACC_0279,Stark Solutions,CMP_1017,camp_17,SQL,,,,,,,
+LEAD_0280,2025-05-23,massivenetworks.com,ACC_0280,Massive Networks,CMP_1007,camp_7,SQL,,,,,,2025-05-31,2025-06-14
+LEAD_0281,2025-03-06,vandelayenterprises.com,ACC_0281,Vandelay Enterprises,CMP_1004,camp_4,Closed Lost,OPP_0281,2025-03-17,12874.0,2025-04-25,Lost,2025-03-14,2025-03-28
+LEAD_0282,2025-03-08,acmecorporation.com,ACC_0282,Acme Corporation,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0283,2025-03-12,starksolutions.com,ACC_0283,Stark Solutions,CMP_1003,camp_3,SQL,,,,,,,
+LEAD_0284,2025-07-03,umbrellaholdings.com,ACC_0284,Umbrella Holdings,CMP_1002,camp_2,SQL,,,,,,2025-07-04,2025-07-18
+LEAD_0285,2025-08-02,umbrellagroup.com,ACC_0285,Umbrella Group,CMP_1004,camp_4,MQL,,,,,,,
+LEAD_0286,2025-05-23,yahoo.com,ACC_0286,Acme Holdings,CMP_1002,camp_2,SQL,,,,,,2025-05-25,2025-06-08
+LEAD_0287,2025-01-29,yahoo.com,ACC_0287,Globex Corporation,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0288,2025-07-25,initechindustries.com,ACC_0288,Initech Industries,CMP_1007,camp_7,Closed Lost,OPP_0288,2025-08-21,7639.0,2025-09-06,Lost,2025-07-29,2025-08-12
+LEAD_0289,2025-09-14,vehementsystems.com,ACC_0289,Vehement Systems,CMP_1017,camp_17,SQL,,,,,,2025-09-22,2025-10-06
+LEAD_0290,2025-02-11,outlook.com,ACC_0290,Globex Group,CMP_1013,camp_13,SQL,,,,,,,
+LEAD_0291,2025-02-18,massivesystems.com,ACC_0291,Massive Systems,CMP_1005,camp_5,SQL,,,,,,,
+LEAD_0292,2025-08-18,hoolidynamics.com,ACC_0292,Hooli Dynamics,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0293,2025-08-25,wonkaholdings.com,ACC_0293,Wonka Holdings,CMP_1013,camp_13,Closed Won,OPP_0293,2025-09-13,32070.0,2025-11-17,Won,2025-08-27,2025-09-10
+LEAD_0294,2025-04-15,yahoo.com,ACC_0294,Wonka Networks,,,Lead,,,,,,,
+LEAD_0295,2025-02-05,waynelabs.com,ACC_0295,Wayne Labs,CMP_1003,camp_3,Lead,,,,,,,
+LEAD_0296,2025-08-24,umbrellalabs.com,ACC_0296,Umbrella Labs,CMP_1014,camp_14,MQL,,,,,,2025-08-27,2025-09-10
+LEAD_0297,2025-03-02,soylentindustries.com,ACC_0297,Soylent Industries,CMP_1009,camp_9,MQL,,,,,,2025-03-10,2025-03-24
+LEAD_0298,2025-09-03,vehementsolutions.com,ACC_0298,Vehement Solutions,CMP_1002,camp_2,SQL,,,,,,,
+LEAD_0299,2025-06-28,wonkaindustries.com,ACC_0299,Wonka Industries,CMP_1004,camp_4,Closed Lost,OPP_0299,2025-08-02,14754.0,2025-09-14,Lost,,
+LEAD_0300,2025-05-02,umbrellaindustries.com,ACC_0300,Umbrella Industries,CMP_1014,camp_14,Closed Lost,OPP_0300,2025-05-15,22013.0,2025-06-02,Lost,2025-05-11,2025-05-25
+LEAD_0301,2025-01-20,initechnetworks.com,ACC_0301,Initech Networks,,,Closed Lost,OPP_0301,2025-02-08,20627.0,2025-05-10,Lost,2025-01-26,2025-02-09
+LEAD_0302,2025-01-13,gmail.com,ACC_0302,Globex Industries,CMP_1017,camp_17,MQL,,,,,,2025-01-17,2025-01-31
+LEAD_0303,2025-07-28,hooligroup.com,ACC_0303,Hooli Group,CMP_1017,camp_17,Closed Lost,OPP_0303,2025-08-12,26335.0,2025-10-06,Lost,2025-07-28,2025-08-11
+LEAD_0304,2025-06-21,outlook.com,ACC_0304,Massive Holdings,CMP_1004,camp_4,Closed Lost,OPP_0304,2025-07-11,13390.0,2025-08-20,Lost,2025-06-21,2025-07-05
+LEAD_0305,2025-08-19,waynecorporation.com,ACC_0305,Wayne Corporation,CMP_1001,camp_1,Closed Lost,OPP_0305,2025-09-09,16608.0,2025-11-02,Lost,2025-08-19,2025-09-02
+LEAD_0306,2025-09-26,vandelayholdings.com,ACC_0306,Vandelay Holdings,,,Lead,,,,,,,
+LEAD_0307,2025-09-24,hoolilabs.com,ACC_0307,Hooli Labs,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0308,2025-06-13,globexindustries.com,ACC_0308,Globex Industries,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0309,2025-02-10,umbrellacorporation.com,ACC_0309,Umbrella Corporation,,,Closed Won,OPP_0309,2025-02-22,22910.0,2025-06-09,Won,2025-02-17,2025-03-03
+LEAD_0310,2025-04-13,vandelaycorporation.com,ACC_0310,Vandelay Corporation,CMP_1001,camp_1,SQL,,,,,,2025-04-20,2025-05-04
+LEAD_0311,2025-04-03,wonkadynamics.com,ACC_0311,Wonka Dynamics,CMP_1004,camp_4,Closed Lost,OPP_0311,2025-05-02,12184.0,2025-06-12,Lost,2025-04-03,2025-04-17
+LEAD_0312,2025-08-16,starkenterprises.com,ACC_0312,Stark Enterprises,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0313,2025-05-25,vehementholdings.com,ACC_0313,Vehement Holdings,CMP_1012,camp_12,Closed Lost,OPP_0313,2025-07-02,16287.0,2025-08-28,Lost,2025-06-02,2025-06-16
+LEAD_0314,2025-09-14,wonkasolutions.com,ACC_0314,Wonka Solutions,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0315,2025-07-03,starkholdings.com,ACC_0315,Stark Holdings,CMP_1001,camp_1,MQL,,,,,,2025-07-12,2025-07-26
+LEAD_0316,2025-05-12,initechnetworks.com,ACC_0316,Initech Networks,CMP_1017,camp_17,MQL,,,,,,2025-05-17,2025-05-31
+LEAD_0317,2025-02-12,vehementnetworks.com,ACC_0317,Vehement Networks,CMP_1014,camp_14,MQL,,,,,,,
+LEAD_0318,2025-03-11,gmail.com,ACC_0318,Globex Industries,,,MQL,,,,,,2025-03-18,2025-04-01
+LEAD_0319,2025-06-29,massivedynamics.com,ACC_0319,Massive Dynamics,CMP_1004,camp_4,Closed Lost,OPP_0319,2025-07-18,20701.0,2025-10-05,Lost,2025-07-04,2025-07-18
+LEAD_0320,2025-03-02,wonkacorporation.com,ACC_0320,Wonka Corporation,CMP_1013,camp_13,Closed Won,OPP_0320,2025-03-23,27952.0,2025-05-14,Won,2025-03-05,2025-03-19
+LEAD_0321,2025-07-27,vehementdynamics.com,ACC_0321,Vehement Dynamics,CMP_1004,camp_4,MQL,,,,,,2025-07-27,2025-08-10
+LEAD_0322,2025-03-03,vandelaydynamics.com,ACC_0322,Vandelay Dynamics,,,Closed Won,OPP_0322,2025-03-30,16102.0,2025-05-22,Won,2025-03-11,2025-03-25
+LEAD_0323,2025-03-22,globexgroup.com,ACC_0323,Globex Group,CMP_1012,camp_12,MQL,,,,,,2025-03-26,2025-04-09
+LEAD_0324,2025-08-10,outlook.com,ACC_0324,Vandelay Systems,CMP_1003,camp_3,Closed Won,OPP_0324,2025-08-18,26807.0,2025-10-05,Won,2025-08-14,2025-08-28
+LEAD_0325,2025-08-20,vandelaynetworks.com,ACC_0325,Vandelay Networks,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0326,2025-09-18,yahoo.com,ACC_0326,Soylent Industries,CMP_1012,camp_12,Closed Won,OPP_0326,2025-10-03,14638.0,2025-10-28,Won,2025-09-27,2025-10-11
+LEAD_0327,2025-02-26,yahoo.com,ACC_0327,Wayne Solutions,CMP_1005,camp_5,SQL,,,,,,2025-02-27,2025-03-13
+LEAD_0328,2025-08-01,soylententerprises.com,ACC_0328,Soylent Enterprises,CMP_1010,camp_10,MQL,,,,,,2025-08-04,2025-08-18
+LEAD_0329,2025-02-09,vandelaysolutions.com,ACC_0329,Vandelay Solutions,CMP_1011,camp_11,MQL,,,,,,2025-02-14,2025-02-28
+LEAD_0330,2025-01-14,vehementdynamics.com,ACC_0330,Vehement Dynamics,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0331,2025-05-07,massiveenterprises.com,ACC_0331,Massive Enterprises,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0332,2025-03-29,gmail.com,ACC_0332,Umbrella Corporation,CMP_1013,camp_13,SQL,,,,,,2025-04-05,2025-04-19
+LEAD_0333,2025-06-02,acmeenterprises.com,ACC_0333,Acme Enterprises,CMP_1001,camp_1,MQL,,,,,,2025-06-10,2025-06-24
+LEAD_0334,2025-06-29,outlook.com,ACC_0334,Acme Dynamics,CMP_1008,camp_8,MQL,,,,,,2025-07-06,2025-07-20
+LEAD_0335,2025-01-08,globexgroup.com,ACC_0335,Globex Group,CMP_1004,camp_4,Closed Won,OPP_0335,2025-01-15,13164.0,2025-04-28,Won,2025-01-08,2025-01-22
+LEAD_0336,2025-07-17,wayneholdings.com,ACC_0336,Wayne Holdings,CMP_1014,camp_14,SQL,,,,,,2025-07-24,2025-08-07
+LEAD_0337,2025-09-08,vandelaycorporation.com,ACC_0337,Vandelay Corporation,CMP_1014,camp_14,SQL,,,,,,2025-09-16,2025-09-30
+LEAD_0338,2025-03-08,globexdynamics.com,ACC_0338,Globex Dynamics,CMP_1007,camp_7,MQL,,,,,,2025-03-12,2025-03-26
+LEAD_0339,2025-08-19,globexsystems.com,ACC_0339,Globex Systems,CMP_1010,camp_10,Closed Lost,OPP_0339,2025-09-25,26577.0,2025-10-28,Lost,2025-08-23,2025-09-06
+LEAD_0340,2025-08-16,massiveholdings.com,ACC_0340,Massive Holdings,CMP_1009,camp_9,MQL,,,,,,2025-08-21,2025-09-04
+LEAD_0341,2025-04-27,initechnetworks.com,ACC_0341,Initech Networks,,,SQL,,,,,,2025-05-02,2025-05-16
+LEAD_0342,2025-09-29,vandelaylabs.com,ACC_0342,Vandelay Labs,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0343,2025-08-13,soylentnetworks.com,ACC_0343,Soylent Networks,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0344,2025-06-07,umbrellanetworks.com,ACC_0344,Umbrella Networks,CMP_1012,camp_12,MQL,,,,,,,
+LEAD_0345,2025-04-28,soylententerprises.com,ACC_0345,Soylent Enterprises,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0346,2025-05-29,proton.me,ACC_0346,Wayne Dynamics,CMP_1003,camp_3,Closed Lost,OPP_0346,2025-07-02,16911.0,2025-08-18,Lost,2025-05-30,2025-06-13
+LEAD_0347,2025-04-06,vandelayholdings.com,ACC_0347,Vandelay Holdings,CMP_1019,camp_19,Closed Lost,OPP_0347,2025-04-25,30055.0,2025-06-23,Lost,,
+LEAD_0348,2025-06-19,vandelaysolutions.com,ACC_0348,Vandelay Solutions,CMP_1012,camp_12,SQL,,,,,,2025-06-27,2025-07-11
+LEAD_0349,2025-04-07,waynegroup.com,ACC_0349,Wayne Group,CMP_1011,camp_11,Closed Lost,OPP_0349,2025-05-07,14740.0,2025-06-15,Lost,2025-04-09,2025-04-23
+LEAD_0350,2025-02-26,initechsystems.com,ACC_0350,Initech Systems,CMP_1004,camp_4,Closed Won,OPP_0350,2025-03-31,19624.0,2025-04-10,Won,2025-02-27,2025-03-13
+LEAD_0351,2025-08-13,globexindustries.com,ACC_0351,Globex Industries,CMP_1011,camp_11,Lead,,,,,,,
+LEAD_0352,2025-05-14,wonkanetworks.com,ACC_0352,Wonka Networks,,,SQL,,,,,,2025-05-16,2025-05-30
+LEAD_0353,2025-09-08,wonkacorporation.com,ACC_0353,Wonka Corporation,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0354,2025-03-19,wayneindustries.com,ACC_0354,Wayne Industries,CMP_1014,camp_14,SQL,,,,,,2025-03-28,2025-04-11
+LEAD_0355,2025-09-22,initechcorporation.com,ACC_0355,Initech Corporation,CMP_1015,camp_15,MQL,,,,,,,
+LEAD_0356,2025-02-27,vandelaycorporation.com,ACC_0356,Vandelay Corporation,CMP_1012,camp_12,SQL,,,,,,2025-02-27,2025-03-13
+LEAD_0357,2025-06-20,vandelayholdings.com,ACC_0357,Vandelay Holdings,CMP_1003,camp_3,Closed Won,OPP_0357,2025-07-20,19515.0,2025-08-21,Won,2025-06-22,2025-07-06
+LEAD_0358,2025-02-13,wonkacorporation.com,ACC_0358,Wonka Corporation,CMP_1014,camp_14,SQL,,,,,,2025-02-15,2025-03-01
+LEAD_0359,2025-08-03,vehementsystems.com,ACC_0359,Vehement Systems,CMP_1005,camp_5,Closed Lost,OPP_0359,2025-09-05,26528.0,2025-10-06,Lost,2025-08-05,2025-08-19
+LEAD_0360,2025-01-28,proton.me,ACC_0360,Vehement Corporation,CMP_1009,camp_9,Closed Lost,OPP_0360,2025-02-19,13308.0,2025-02-28,Lost,2025-01-31,2025-02-14
+LEAD_0361,2025-01-23,soylentnetworks.com,ACC_0361,Soylent Networks,CMP_1003,camp_3,Closed Won,OPP_0361,2025-02-18,29519.0,2025-05-14,Won,2025-01-23,2025-02-06
+LEAD_0362,2025-07-29,vandelayindustries.com,ACC_0362,Vandelay Industries,CMP_1003,camp_3,SQL,,,,,,2025-07-30,2025-08-13
+LEAD_0363,2025-05-09,soylentcorporation.com,ACC_0363,Soylent Corporation,CMP_1010,camp_10,Closed Lost,OPP_0363,2025-06-07,21126.0,2025-06-15,Lost,2025-05-15,2025-05-29
+LEAD_0364,2025-01-28,starkenterprises.com,ACC_0364,Stark Enterprises,CMP_1011,camp_11,Closed Won,OPP_0364,2025-02-16,32737.0,2025-05-04,Won,2025-02-03,2025-02-17
+LEAD_0365,2025-08-28,vandelaynetworks.com,ACC_0365,Vandelay Networks,CMP_1004,camp_4,Lead,,,,,,,
+LEAD_0366,2025-03-08,vandelaygroup.com,ACC_0366,Vandelay Group,CMP_1005,camp_5,Closed Won,OPP_0366,2025-03-18,21111.0,2025-04-05,Won,2025-03-11,2025-03-25
+LEAD_0367,2025-03-16,umbrellalabs.com,ACC_0367,Umbrella Labs,CMP_1016,camp_16,Lead,,,,,,,
+LEAD_0368,2025-07-02,yahoo.com,ACC_0368,Hooli Group,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0369,2025-03-05,hoolienterprises.com,ACC_0369,Hooli Enterprises,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0370,2025-01-19,acmeholdings.com,ACC_0370,Acme Holdings,CMP_1017,camp_17,Closed Won,OPP_0370,2025-02-02,24007.0,2025-02-16,Won,2025-01-22,2025-02-05
+LEAD_0371,2025-09-12,hoolilabs.com,ACC_0371,Hooli Labs,CMP_1019,camp_19,Lead,,,,,,,
+LEAD_0372,2025-07-02,waynegroup.com,ACC_0372,Wayne Group,CMP_1015,camp_15,SQL,,,,,,2025-07-04,2025-07-18
+LEAD_0373,2025-03-30,gmail.com,ACC_0373,Soylent Industries,CMP_1009,camp_9,Closed Lost,OPP_0373,2025-05-02,22774.0,2025-07-21,Lost,2025-04-02,2025-04-16
+LEAD_0374,2025-07-30,globexindustries.com,ACC_0374,Globex Industries,,,SQL,,,,,,2025-08-08,2025-08-22
+LEAD_0375,2025-06-19,wonkaenterprises.com,ACC_0375,Wonka Enterprises,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0376,2025-09-09,wayneenterprises.com,ACC_0376,Wayne Enterprises,CMP_1001,camp_1,MQL,,,,,,2025-09-10,2025-09-24
+LEAD_0377,2025-03-01,umbrellanetworks.com,ACC_0377,Umbrella Networks,CMP_1017,camp_17,SQL,,,,,,2025-03-07,2025-03-21
+LEAD_0378,2025-02-17,wonkanetworks.com,ACC_0378,Wonka Networks,CMP_1009,camp_9,Closed Won,OPP_0378,2025-03-26,7917.0,2025-05-06,Won,2025-02-21,2025-03-07
+LEAD_0379,2025-03-03,soylentdynamics.com,ACC_0379,Soylent Dynamics,CMP_1014,camp_14,Closed Won,OPP_0379,2025-03-24,23408.0,2025-06-07,Won,2025-03-09,2025-03-23
+LEAD_0380,2025-07-03,wonkaenterprises.com,ACC_0380,Wonka Enterprises,CMP_1014,camp_14,Closed Won,OPP_0380,2025-07-10,25665.0,2025-09-23,Won,2025-07-04,2025-07-18
+LEAD_0381,2025-09-09,vandelaysystems.com,ACC_0381,Vandelay Systems,CMP_1004,camp_4,MQL,,,,,,2025-09-09,2025-09-23
+LEAD_0382,2025-02-07,acmecorporation.com,ACC_0382,Acme Corporation,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0383,2025-03-29,initechgroup.com,ACC_0383,Initech Group,CMP_1007,camp_7,SQL,,,,,,,
+LEAD_0384,2025-08-16,umbrellagroup.com,ACC_0384,Umbrella Group,CMP_1011,camp_11,Closed Won,OPP_0384,2025-08-30,21408.0,2025-11-14,Won,2025-08-24,2025-09-07
+LEAD_0385,2025-09-18,hooliindustries.com,ACC_0385,Hooli Industries,CMP_1010,camp_10,SQL,,,,,,2025-09-22,2025-10-06
+LEAD_0386,2025-08-16,waynecorporation.com,ACC_0386,Wayne Corporation,CMP_1013,camp_13,MQL,,,,,,2025-08-16,2025-08-30
+LEAD_0387,2025-04-22,starkenterprises.com,ACC_0387,Stark Enterprises,CMP_1006,camp_6,Lead,,,,,,,
+LEAD_0388,2025-05-23,vehementsolutions.com,ACC_0388,Vehement Solutions,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0389,2025-07-16,vandelaylabs.com,ACC_0389,Vandelay Labs,CMP_1012,camp_12,Closed Won,OPP_0389,2025-08-20,5886.0,2025-08-12,Won,2025-07-24,2025-08-07
+LEAD_0390,2025-06-17,waynesystems.com,ACC_0390,Wayne Systems,CMP_1008,camp_8,MQL,,,,,,2025-06-21,2025-07-05
+LEAD_0391,2025-04-12,gmail.com,ACC_0391,Acme Labs,CMP_1004,camp_4,Closed Lost,OPP_0391,2025-05-10,21782.0,2025-06-04,Lost,2025-04-12,2025-04-26
+LEAD_0392,2025-07-11,vehementcorporation.com,ACC_0392,Vehement Corporation,,,Closed Lost,OPP_0392,2025-08-14,15403.0,2025-09-15,Lost,2025-07-20,2025-08-03
+LEAD_0393,2025-07-01,vehementindustries.com,ACC_0393,Vehement Industries,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0394,2025-03-30,outlook.com,ACC_0394,Massive Group,CMP_1009,camp_9,Closed Lost,OPP_0394,2025-04-09,21959.0,2025-05-13,Lost,,
+LEAD_0395,2025-09-02,proton.me,ACC_0395,Vehement Holdings,CMP_1017,camp_17,MQL,,,,,,,
+LEAD_0396,2025-01-30,hooligroup.com,ACC_0396,Hooli Group,CMP_1015,camp_15,SQL,,,,,,,
+LEAD_0397,2025-01-01,globexsystems.com,ACC_0397,Globex Systems,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0398,2025-08-16,initechenterprises.com,ACC_0398,Initech Enterprises,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0399,2025-09-13,umbrellaenterprises.com,ACC_0399,Umbrella Enterprises,CMP_1019,camp_19,Closed Lost,OPP_0399,2025-10-15,4000.0,2025-11-11,Lost,2025-09-18,2025-10-02
+LEAD_0400,2025-07-25,yahoo.com,ACC_0400,Wonka Holdings,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0401,2025-04-06,wonkagroup.com,ACC_0401,Wonka Group,,,Lead,,,,,,,
+LEAD_0402,2025-03-20,globexholdings.com,ACC_0402,Globex Holdings,CMP_1008,camp_8,MQL,,,,,,,
+LEAD_0403,2025-03-17,globexenterprises.com,ACC_0403,Globex Enterprises,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0404,2025-04-17,vehementholdings.com,ACC_0404,Vehement Holdings,CMP_1002,camp_2,Lead,,,,,,,
+LEAD_0405,2025-01-23,globexsystems.com,ACC_0405,Globex Systems,CMP_1017,camp_17,Closed Lost,OPP_0405,2025-02-26,12077.0,2025-04-01,Lost,2025-01-30,2025-02-13
+LEAD_0406,2025-04-06,starklabs.com,ACC_0406,Stark Labs,CMP_1012,camp_12,MQL,,,,,,2025-04-07,2025-04-21
+LEAD_0407,2025-08-05,wonkalabs.com,ACC_0407,Wonka Labs,CMP_1003,camp_3,SQL,,,,,,2025-08-08,2025-08-22
+LEAD_0408,2025-06-22,waynecorporation.com,ACC_0408,Wayne Corporation,CMP_1015,camp_15,Closed Lost,OPP_0408,2025-07-14,10701.0,2025-08-13,Lost,2025-06-29,2025-07-13
+LEAD_0409,2025-03-22,umbrellalabs.com,ACC_0409,Umbrella Labs,CMP_1007,camp_7,Closed Won,OPP_0409,2025-04-07,22350.0,2025-05-03,Won,2025-03-29,2025-04-12
+LEAD_0410,2025-06-04,globexholdings.com,ACC_0410,Globex Holdings,CMP_1010,camp_10,MQL,,,,,,2025-06-11,2025-06-25
+LEAD_0411,2025-06-06,vandelaygroup.com,ACC_0411,Vandelay Group,CMP_1009,camp_9,MQL,,,,,,2025-06-13,2025-06-27
+LEAD_0412,2025-02-16,wonkaholdings.com,ACC_0412,Wonka Holdings,CMP_1018,camp_18,Closed Lost,OPP_0412,2025-03-01,13297.0,2025-04-01,Lost,,
+LEAD_0413,2025-03-26,soylentindustries.com,ACC_0413,Soylent Industries,CMP_1019,camp_19,Closed Lost,OPP_0413,2025-04-26,12602.0,2025-04-20,Lost,2025-03-30,2025-04-13
+LEAD_0414,2025-03-17,hooliindustries.com,ACC_0414,Hooli Industries,CMP_1017,camp_17,SQL,,,,,,2025-03-22,2025-04-05
+LEAD_0415,2025-04-06,globexsolutions.com,ACC_0415,Globex Solutions,CMP_1007,camp_7,Lead,,,,,,,
+LEAD_0416,2025-08-17,vehementholdings.com,ACC_0416,Vehement Holdings,CMP_1019,camp_19,SQL,,,,,,2025-08-24,2025-09-07
+LEAD_0417,2025-01-25,hoolienterprises.com,ACC_0417,Hooli Enterprises,CMP_1019,camp_19,Closed Won,OPP_0417,2025-02-04,17730.0,2025-05-02,Won,,
+LEAD_0418,2025-04-13,wayneenterprises.com,ACC_0418,Wayne Enterprises,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0419,2025-05-09,globexenterprises.com,ACC_0419,Globex Enterprises,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0420,2025-02-07,massivecorporation.com,ACC_0420,Massive Corporation,,,Closed Won,OPP_0420,2025-03-03,28931.0,2025-03-12,Won,2025-02-08,2025-02-22
+LEAD_0421,2025-01-12,globexindustries.com,ACC_0421,Globex Industries,CMP_1010,camp_10,Closed Won,OPP_0421,2025-02-05,29348.0,2025-02-18,Won,2025-01-18,2025-02-01
+LEAD_0422,2025-02-01,soylentholdings.com,ACC_0422,Soylent Holdings,CMP_1014,camp_14,Lead,,,,,,,
+LEAD_0423,2025-03-24,vehemententerprises.com,ACC_0423,Vehement Enterprises,CMP_1004,camp_4,Closed Won,OPP_0423,2025-04-01,15576.0,2025-06-30,Won,,
+LEAD_0424,2025-06-04,gmail.com,ACC_0424,Acme Systems,CMP_1002,camp_2,MQL,,,,,,2025-06-11,2025-06-25
+LEAD_0425,2025-08-09,starkenterprises.com,ACC_0425,Stark Enterprises,CMP_1009,camp_9,Closed Lost,OPP_0425,2025-09-03,7335.0,2025-11-04,Lost,2025-08-09,2025-08-23
+LEAD_0426,2025-07-30,wonkasolutions.com,ACC_0426,Wonka Solutions,CMP_1012,camp_12,Closed Won,OPP_0426,2025-08-08,31891.0,2025-09-23,Won,2025-08-03,2025-08-17
+LEAD_0427,2025-02-13,initechenterprises.com,ACC_0427,Initech Enterprises,CMP_1005,camp_5,Lead,,,,,,,
+LEAD_0428,2025-02-27,massivegroup.com,ACC_0428,Massive Group,CMP_1005,camp_5,Closed Lost,OPP_0428,2025-03-28,31850.0,2025-05-20,Lost,2025-03-06,2025-03-20
+LEAD_0429,2025-05-07,waynesystems.com,ACC_0429,Wayne Systems,CMP_1017,camp_17,MQL,,,,,,2025-05-14,2025-05-28
+LEAD_0430,2025-02-05,vehementindustries.com,ACC_0430,Vehement Industries,CMP_1007,camp_7,Closed Lost,OPP_0430,2025-02-24,20525.0,2025-04-09,Lost,2025-02-09,2025-02-23
+LEAD_0431,2025-01-20,massivegroup.com,ACC_0431,Massive Group,,,MQL,,,,,,,
+LEAD_0432,2025-04-18,yahoo.com,ACC_0432,Initech Systems,CMP_1019,camp_19,Lead,,,,,,,
+LEAD_0433,2025-06-29,waynesystems.com,ACC_0433,Wayne Systems,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0434,2025-07-06,wonkagroup.com,ACC_0434,Wonka Group,CMP_1016,camp_16,MQL,,,,,,2025-07-07,2025-07-21
+LEAD_0435,2025-06-22,yahoo.com,ACC_0435,Vehement Systems,CMP_1013,camp_13,Lead,,,,,,,
+LEAD_0436,2025-09-24,starkcorporation.com,ACC_0436,Stark Corporation,CMP_1017,camp_17,SQL,,,,,,2025-09-26,2025-10-10
+LEAD_0437,2025-05-21,umbrellagroup.com,ACC_0437,Umbrella Group,CMP_1013,camp_13,Closed Lost,OPP_0437,2025-06-07,17447.0,2025-07-23,Lost,2025-05-30,2025-06-13
+LEAD_0438,2025-09-05,gmail.com,ACC_0438,Soylent Enterprises,CMP_1016,camp_16,Closed Won,OPP_0438,2025-09-22,29377.0,2025-10-28,Won,2025-09-06,2025-09-20
+LEAD_0439,2025-02-03,yahoo.com,ACC_0439,Soylent Group,CMP_1019,camp_19,Lead,,,,,,,
+LEAD_0440,2025-07-04,soylentsolutions.com,ACC_0440,Soylent Solutions,CMP_1018,camp_18,Closed Lost,OPP_0440,2025-07-23,20498.0,2025-08-14,Lost,2025-07-13,2025-07-27
+LEAD_0441,2025-08-27,hoolisolutions.com,ACC_0441,Hooli Solutions,CMP_1009,camp_9,Closed Won,OPP_0441,2025-09-27,25712.0,2025-11-17,Won,2025-09-02,2025-09-16
+LEAD_0442,2025-03-15,globexholdings.com,ACC_0442,Globex Holdings,,,Lead,,,,,,,
+LEAD_0443,2025-08-27,soylentlabs.com,ACC_0443,Soylent Labs,CMP_1009,camp_9,Closed Won,OPP_0443,2025-09-30,22130.0,2025-11-13,Won,,
+LEAD_0444,2025-03-10,massiveenterprises.com,ACC_0444,Massive Enterprises,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0445,2025-06-12,hoolidynamics.com,ACC_0445,Hooli Dynamics,CMP_1001,camp_1,Closed Won,OPP_0445,2025-07-04,20893.0,2025-07-07,Won,,
+LEAD_0446,2025-07-26,massivedynamics.com,ACC_0446,Massive Dynamics,CMP_1001,camp_1,Lead,,,,,,,
+LEAD_0447,2025-02-10,vehementcorporation.com,ACC_0447,Vehement Corporation,CMP_1016,camp_16,Closed Won,OPP_0447,2025-02-27,22898.0,2025-03-29,Won,2025-02-12,2025-02-26
+LEAD_0448,2025-03-03,umbrellaindustries.com,ACC_0448,Umbrella Industries,CMP_1017,camp_17,SQL,,,,,,,
+LEAD_0449,2025-04-30,initechholdings.com,ACC_0449,Initech Holdings,CMP_1018,camp_18,MQL,,,,,,2025-05-07,2025-05-21
+LEAD_0450,2025-02-17,yahoo.com,ACC_0450,Vehement Group,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0451,2025-09-21,vandelaydynamics.com,ACC_0451,Vandelay Dynamics,CMP_1018,camp_18,Lead,,,,,,,
+LEAD_0452,2025-02-04,proton.me,ACC_0452,Stark Dynamics,,,Lead,,,,,,,
+LEAD_0453,2025-05-26,gmail.com,ACC_0453,Umbrella Solutions,CMP_1011,camp_11,Lead,,,,,,,
+LEAD_0454,2025-06-07,initechnetworks.com,ACC_0454,Initech Networks,,,SQL,,,,,,2025-06-12,2025-06-26
+LEAD_0455,2025-07-11,umbrellaholdings.com,ACC_0455,Umbrella Holdings,CMP_1016,camp_16,MQL,,,,,,2025-07-17,2025-07-31
+LEAD_0456,2025-05-06,wonkalabs.com,ACC_0456,Wonka Labs,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0457,2025-03-08,proton.me,ACC_0457,Massive Holdings,CMP_1006,camp_6,MQL,,,,,,2025-03-13,2025-03-27
+LEAD_0458,2025-02-01,vehementlabs.com,ACC_0458,Vehement Labs,CMP_1005,camp_5,Closed Lost,OPP_0458,2025-03-11,26944.0,2025-05-22,Lost,2025-02-09,2025-02-23
+LEAD_0459,2025-06-04,waynegroup.com,ACC_0459,Wayne Group,CMP_1017,camp_17,Closed Lost,OPP_0459,2025-07-13,4000.0,2025-07-29,Lost,2025-06-08,2025-06-22
+LEAD_0460,2025-03-31,yahoo.com,ACC_0460,Wonka Corporation,CMP_1017,camp_17,Closed Won,OPP_0460,2025-04-11,24404.0,2025-05-11,Won,2025-03-31,2025-04-14
+LEAD_0461,2025-07-30,initechenterprises.com,ACC_0461,Initech Enterprises,CMP_1013,camp_13,MQL,,,,,,2025-07-31,2025-08-14
+LEAD_0462,2025-07-08,wonkadynamics.com,ACC_0462,Wonka Dynamics,CMP_1006,camp_6,Closed Lost,OPP_0462,2025-07-29,29379.0,2025-08-04,Lost,,
+LEAD_0463,2025-05-11,initechcorporation.com,ACC_0463,Initech Corporation,CMP_1003,camp_3,SQL,,,,,,2025-05-11,2025-05-25
+LEAD_0464,2025-05-02,starkholdings.com,ACC_0464,Stark Holdings,CMP_1009,camp_9,Lead,,,,,,,
+LEAD_0465,2025-07-21,initechcorporation.com,ACC_0465,Initech Corporation,CMP_1016,camp_16,MQL,,,,,,2025-07-27,2025-08-10
+LEAD_0466,2025-05-08,soylentsolutions.com,ACC_0466,Soylent Solutions,CMP_1018,camp_18,SQL,,,,,,2025-05-11,2025-05-25
+LEAD_0467,2025-07-16,proton.me,ACC_0467,Massive Systems,CMP_1003,camp_3,Closed Lost,OPP_0467,2025-08-23,19639.0,2025-10-23,Lost,,
+LEAD_0468,2025-05-02,massivesystems.com,ACC_0468,Massive Systems,CMP_1014,camp_14,MQL,,,,,,2025-05-02,2025-05-16
+LEAD_0469,2025-06-25,starksystems.com,ACC_0469,Stark Systems,CMP_1017,camp_17,MQL,,,,,,2025-06-30,2025-07-14
+LEAD_0470,2025-08-16,massivedynamics.com,ACC_0470,Massive Dynamics,CMP_1015,camp_15,Lead,,,,,,,
+LEAD_0471,2025-03-17,proton.me,ACC_0471,Acme Solutions,CMP_1015,camp_15,MQL,,,,,,2025-03-21,2025-04-04
+LEAD_0472,2025-07-20,umbrelladynamics.com,ACC_0472,Umbrella Dynamics,CMP_1015,camp_15,Closed Lost,OPP_0472,2025-08-09,20776.0,2025-08-31,Lost,2025-07-21,2025-08-04
+LEAD_0473,2025-05-03,soylentindustries.com,ACC_0473,Soylent Industries,CMP_1014,camp_14,Closed Won,OPP_0473,2025-06-01,30399.0,2025-07-14,Won,2025-05-07,2025-05-21
+LEAD_0474,2025-03-22,initechcorporation.com,ACC_0474,Initech Corporation,CMP_1011,camp_11,Lead,,,,,,,
+LEAD_0475,2025-08-25,yahoo.com,ACC_0475,Wayne Dynamics,CMP_1003,camp_3,SQL,,,,,,2025-08-31,2025-09-14
+LEAD_0476,2025-05-24,vandelaycorporation.com,ACC_0476,Vandelay Corporation,CMP_1008,camp_8,Lead,,,,,,,
+LEAD_0477,2025-06-09,wayneindustries.com,ACC_0477,Wayne Industries,CMP_1017,camp_17,MQL,,,,,,,
+LEAD_0478,2025-07-20,globexsystems.com,ACC_0478,Globex Systems,CMP_1007,camp_7,SQL,,,,,,2025-07-23,2025-08-06
+LEAD_0479,2025-05-08,acmeenterprises.com,ACC_0479,Acme Enterprises,CMP_1009,camp_9,SQL,,,,,,,
+LEAD_0480,2025-05-08,umbrellalabs.com,ACC_0480,Umbrella Labs,CMP_1016,camp_16,SQL,,,,,,,
+LEAD_0481,2025-07-13,initechgroup.com,ACC_0481,Initech Group,CMP_1010,camp_10,Lead,,,,,,,
+LEAD_0482,2025-09-21,hoolicorporation.com,ACC_0482,Hooli Corporation,CMP_1006,camp_6,SQL,,,,,,2025-09-22,2025-10-06
+LEAD_0483,2025-03-07,globexnetworks.com,ACC_0483,Globex Networks,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0484,2025-08-24,vehementindustries.com,ACC_0484,Vehement Industries,CMP_1003,camp_3,MQL,,,,,,2025-08-27,2025-09-10
+LEAD_0485,2025-08-21,massivesystems.com,ACC_0485,Massive Systems,CMP_1006,camp_6,Closed Lost,OPP_0485,2025-09-13,19348.0,2025-11-03,Lost,2025-08-24,2025-09-07
+LEAD_0486,2025-03-05,vandelaylabs.com,ACC_0486,Vandelay Labs,CMP_1004,camp_4,Closed Lost,OPP_0486,2025-04-03,21651.0,2025-05-22,Lost,,
+LEAD_0487,2025-02-05,hoolicorporation.com,ACC_0487,Hooli Corporation,CMP_1010,camp_10,MQL,,,,,,2025-02-13,2025-02-27
+LEAD_0488,2025-01-05,umbrellasolutions.com,ACC_0488,Umbrella Solutions,CMP_1017,camp_17,Lead,,,,,,,
+LEAD_0489,2025-09-08,initechgroup.com,ACC_0489,Initech Group,CMP_1016,camp_16,Closed Won,OPP_0489,2025-10-17,12528.0,2025-12-10,Won,,
+LEAD_0490,2025-06-10,initechdynamics.com,ACC_0490,Initech Dynamics,CMP_1006,camp_6,Closed Won,OPP_0490,2025-06-30,19950.0,2025-09-14,Won,2025-06-12,2025-06-26
+LEAD_0491,2025-01-10,proton.me,ACC_0491,Wayne Holdings,CMP_1019,camp_19,MQL,,,,,,2025-01-12,2025-01-26
+LEAD_0492,2025-02-09,acmedynamics.com,ACC_0492,Acme Dynamics,CMP_1010,camp_10,MQL,,,,,,,
+LEAD_0493,2025-03-04,proton.me,ACC_0493,Soylent Solutions,CMP_1004,camp_4,Lead,,,,,,,
+LEAD_0494,2025-02-17,hooliholdings.com,ACC_0494,Hooli Holdings,CMP_1002,camp_2,Closed Won,OPP_0494,2025-03-18,34868.0,2025-05-18,Won,2025-02-18,2025-03-04
+LEAD_0495,2025-02-14,wonkadynamics.com,ACC_0495,Wonka Dynamics,CMP_1001,camp_1,MQL,,,,,,2025-02-16,2025-03-02
+LEAD_0496,2025-04-20,initechdynamics.com,ACC_0496,Initech Dynamics,CMP_1009,camp_9,Closed Won,OPP_0496,2025-05-20,25112.0,2025-07-18,Won,2025-04-26,2025-05-10
+LEAD_0497,2025-07-16,initechsystems.com,ACC_0497,Initech Systems,CMP_1012,camp_12,MQL,,,,,,2025-07-19,2025-08-02
+LEAD_0498,2025-09-10,umbrellasolutions.com,ACC_0498,Umbrella Solutions,CMP_1012,camp_12,SQL,,,,,,2025-09-15,2025-09-29
+LEAD_0499,2025-02-24,wonkagroup.com,ACC_0499,Wonka Group,CMP_1002,camp_2,MQL,,,,,,2025-02-25,2025-03-11
+LEAD_0500,2025-05-11,vehementcorporation.com,ACC_0500,Vehement Corporation,CMP_1014,camp_14,MQL,,,,,,2025-05-17,2025-05-31

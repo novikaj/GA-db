@@ -1,0 +1,20 @@
+# dbt build artifacts and packages
+target/
+dbt_packages/
+logs/
+
+# Local dbt configuration and secrets
+profiles.yml
+.env
+.env.*
+!.env.example
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# Office temporary files
+~$*

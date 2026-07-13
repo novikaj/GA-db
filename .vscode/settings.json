@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/target": true,
+    "**/dbt_packages": true,
+    "**/__pycache__": true
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "innoverio.vscode-dbt-power-user"
+  }
+}

@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: stg_paid_ads
+    description: Cleaned paid-media performance records.
+    columns:
+      - name: campaign_id
+        data_tests: [not_null]
+      - name: date
+        data_tests: [not_null]
+  - name: stg_crm_pipeline
+    description: Cleaned CRM lead and opportunity records.
+    columns:
+      - name: lead_id
+        data_tests: [not_null, unique]
+  - name: stg_product_usage_events
+    description: Cleaned product usage event records.
+    columns:
+      - name: event_time
+        data_tests: [not_null]
+  - name: fct_campaign_performance
+    description: Campaign-level spend, funnel, and revenue performance.
+    columns:
+      - name: campaign_id
+        data_tests: [not_null, unique]
