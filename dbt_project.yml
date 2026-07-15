@@ -24,3 +24,9 @@ models:
 seeds:
   growth_analytics:
     +quote_columns: false
+    crm_pipeline:
+      +column_types:
+        amount: numeric
+    paid_ads:
+      +column_types:
+        cost: numeric
