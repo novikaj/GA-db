@@ -6,5 +6,6 @@
   },
   "[sql]": {
     "editor.defaultFormatter": "innoverio.vscode-dbt-power-user"
-  }
+  },
+  "dbt.dbtPythonPathOverride": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3"
 }
